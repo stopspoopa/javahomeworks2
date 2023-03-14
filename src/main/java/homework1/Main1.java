@@ -1,7 +1,7 @@
 package homework1;
 
 public class Main1 {
-    public static void main (String[] args) {
+    public static void main(String[] args) {
      long longValue = 50;
      int intValue = 29;
      byte byteValue = 89;
